@@ -32,26 +32,26 @@ A* Search Algorithm: O(|E|) = O(b^d) with b as the branching factor and d as the
 We have established checkpoints for progress we’d like to achieve before each Friday.
 
 ### November 4
-Establish the github and create the branches for each of the algorithms we want to implement
-Begin efforts of correcting the data
-Research the algorithms and assign them to team members
-Begin drafting pseudocode for the selected algorithms and the overall structure of the program
+- Establish the github and create the branches for each of the algorithms we want to implement
+- Begin efforts of correcting the data
+- Research the algorithms and assign them to team members
+- Begin drafting pseudocode for the selected algorithms and the overall structure of the program
 
 ### November 11
-Finish correcting the data, and use this processed data to construct our adjacency matrix, adjacency matrix should be saved in an output file to be used in the algorithms
-Finish researching (if needed) and drafting pseudocode of the selected algorithms
+- Finish correcting the data, and use this processed data to construct our adjacency matrix, adjacency matrix should be saved in an output file to be used in the algorithms
+- Finish researching (if needed) and drafting pseudocode of the selected algorithms
 
 ### November 18
-Finish implementation of the BFS algorithm, be close to finalizing the other algorithms
-Finish tests for the BFS algorithm
-Begin combining the algorithms and factoring in user input
+- Finish implementation of the BFS algorithm, be close to finalizing the other algorithms
+- Finish tests for the BFS algorithm
+- Begin combining the algorithms and factoring in user input
 
 ### November 25
-Finish all the algorithms
-Finish the descriptive ReadMe
-Begin the written report and final presentation
+- Finish all the algorithms
+- Finish the descriptive ReadMe
+- Begin the written report and final presentation
 
 ### December 2
-Wrap up the code deliverables
-Finish the written report
-Finish the final presentation
+- Wrap up the code deliverables
+- Finish the written report
+- Finish the final presentation
